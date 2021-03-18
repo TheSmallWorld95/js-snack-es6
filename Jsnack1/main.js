@@ -47,6 +47,7 @@ for (var i = 1; i < listaPesi.length; i++) {
 console.log(
   `
   ${listaNomi[index]}
+  ${listaPesi[index]}
   `
 );
 
